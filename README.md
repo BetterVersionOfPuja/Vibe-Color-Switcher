@@ -4,3 +4,13 @@ Vibe Color Switcher is a JavaScript-based UI project where clicking on aesthetic
 ## 🔗 Live Demo
 👉 https://betterversionofpuja.github.io/Vibe-Color-Switcher/
 
+### Tech Used
+- HTML
+- CSS
+- JavaScript
+
+### Learning Outcome
+- DOM manipulation
+- Event handling
+- Dynamic styling with JavaScript
+
